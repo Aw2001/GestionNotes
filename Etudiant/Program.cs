@@ -13,6 +13,8 @@ internal class Program
         etudiants.Add(2, new Etudiant { NO = 2, Prenom = "Mame Diarra", Nom = "Ngom", NoteCC = 16.0, NoteDevoir = 18.5 });
         etudiants.Add(3, new Etudiant { NO = 3, Prenom = "Awa", Nom = "Fall", NoteCC = 20, NoteDevoir = 20 });
 
+        int nbEtudiantsDeLaListe = etudiants.Count;
+
         Console.WriteLine("Liste initiale d'étudiants :");
         AfficherListeEtudiants(etudiants);
 
@@ -21,7 +23,8 @@ internal class Program
 
         for (int i = 0; i < nombreEtudiants; i++)
         {
-            Console.WriteLine($"\nPour l'étudiant numéro {i + 1}:");
+            nbEtudiantsDeLaListe++;
+            Console.WriteLine($"\nPour l'étudiant numéro {nbEtudiantsDeLaListe}:");
 
             int no = DemanderNumeroOrdre();
             string prenom = DemanderSaisie("Prénom");
@@ -93,49 +96,7 @@ internal class Program
         }
     }
 
-    static void AfficherEtudiants(SortedList<int, Etudiant> etudiants)
-    {
-        int lignesParPage = 5;
-
-        Console.Write("\nChoisissez le nombre de lignes par page (entre 1 et 15) [Appuyez sur Entrée pour utiliser la valeur par défaut (5)] : ");
-        string input = Console.ReadLine();
-
-        if (!string.IsNullOrWhiteSpace(input))
-        {
-            if (int.TryParse(input, out int nombre) && nombre >= 1 && nombre <= 15)
-            {
-                lignesParPage = nombre;
-            }
-            else
-            {
-                Console.WriteLine("Nombre invalide, utilisation de la valeur par défaut (5).");
-            }
-        }
-
-        double sommeMoyennes = 0;
-        int index = 0;
-        int totalEtudiants = etudiants.Count;
-
-        foreach (var etudiant in etudiants.Values)
-        {
-            Console.WriteLine(etudiant);
-            sommeMoyennes += etudiant.Moyenne;
-            index++;
-
-            if (index % lignesParPage == 0 && index != totalEtudiants)
-            {
-                Console.Write("\nAppuyez sur Entrée pour continuer...");
-                Console.ReadLine();
-            }
-        }
-
-        double moyenneClasse = sommeMoyennes / etudiants.Count;
-        Console.WriteLine($"\nMoyenne de la classe : {moyenneClasse:F2}");
-
-        // Option pour quitter
-        Console.WriteLine("\nTapez 'q' pour quitter.");
-        while (Console.ReadLine().ToLower() != "q") ;
-    }
+    
     static void AfficherListeEtudiants(SortedList<int, Etudiant> etudiants)
     {
         int lignesParPage = 5;
@@ -176,5 +137,16 @@ internal class Program
         Console.WriteLine($"\nMoyenne de la classe : {moyenneClasse:F2}");
 
     }
+
+    static void AfficherEtudiants(SortedList<int, Etudiant> etudiants)
+    {
+        AfficherListeEtudiants(etudiants);
+
+        // Option pour quitter
+        Console.WriteLine("\nTapez 'q' pour quitter.");
+        while (Console.ReadLine().ToLower() != "q") ;
+    }
 }
+
+
 

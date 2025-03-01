@@ -26,3 +26,4 @@ C:\Users\awafa\source\repos\GestionNotes\Etudiant\obj\Debug\net8.0\refint\Etudia
 C:\Users\awafa\source\repos\GestionNotes\Etudiant\obj\Debug\net8.0\Etudiant.pdb
 C:\Users\awafa\source\repos\GestionNotes\Etudiant\obj\Debug\net8.0\Etudiant.genruntimeconfig.cache
 C:\Users\awafa\source\repos\GestionNotes\Etudiant\obj\Debug\net8.0\ref\Etudiant.dll
+C:\Users\awafa\source\repos\GestionNotes\Etudiant\obj\Debug\net8.0\Etudiant.sourcelink.json
