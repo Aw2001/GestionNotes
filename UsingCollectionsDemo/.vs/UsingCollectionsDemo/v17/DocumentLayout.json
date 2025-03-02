@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awafa\\Downloads\\UsingCollectionsDemo-20250301T181400Z-001\\UsingCollectionsDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4B27E0-8451-1531-65B8-D075B0C416DE}|UtilisationCollections.csproj|c:\\users\\awafa\\downloads\\usingcollectionsdemo-20250301t181400z-001\\usingcollectionsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4B27E0-8451-1531-65B8-D075B0C416DE}|UtilisationCollections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4B27E0-8451-1531-65B8-D075B0C416DE}|UtilisationCollections.csproj|c:\\users\\awafa\\downloads\\usingcollectionsdemo-20250301t181400z-001\\usingcollectionsdemo\\employ\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4B27E0-8451-1531-65B8-D075B0C416DE}|UtilisationCollections.csproj|solutionrelative:employ\u00E9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employ\u00E9.cs",
+              "DocumentMoniker": "C:\\Users\\awafa\\Downloads\\UsingCollectionsDemo-20250301T181400Z-001\\UsingCollectionsDemo\\Employ\u00E9.cs",
+              "RelativeDocumentMoniker": "Employ\u00E9.cs",
+              "ToolTip": "C:\\Users\\awafa\\Downloads\\UsingCollectionsDemo-20250301T181400Z-001\\UsingCollectionsDemo\\Employ\u00E9.cs",
+              "RelativeToolTip": "Employ\u00E9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:45:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\awafa\\Downloads\\UsingCollectionsDemo-20250301T181400Z-001\\UsingCollectionsDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\awafa\\Downloads\\UsingCollectionsDemo-20250301T181400Z-001\\UsingCollectionsDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:44:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

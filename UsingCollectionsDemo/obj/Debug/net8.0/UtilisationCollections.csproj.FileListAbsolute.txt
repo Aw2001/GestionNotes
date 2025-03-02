@@ -1,0 +1,13 @@
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.exe
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.dll.config
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.deps.json
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.runtimeconfig.json
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.dll
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\bin\Debug\net8.0\UsingCollectionsDemo.pdb
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\obj\Debug\net8.0\UtilisationCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\obj\Debug\net8.0\UtilisationCollections.csproj.CoreCompileInputs.cache
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.dll
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\obj\Debug\net8.0\refint\UsingCollectionsDemo.dll
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\obj\Debug\net8.0\UsingCollectionsDemo.pdb
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\obj\Debug\net8.0\UtilisationCollections.genruntimeconfig.cache
+C:\Users\awafa\Downloads\UsingCollectionsDemo-20250301T181400Z-001\UsingCollectionsDemo\obj\Debug\net8.0\ref\UsingCollectionsDemo.dll

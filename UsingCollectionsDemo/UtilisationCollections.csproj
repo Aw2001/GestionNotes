@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>  <!-- Change selon ton besoin -->
+        <RootNamespace>UsingCollectionsDemo</RootNamespace>
+        <AssemblyName>UsingCollectionsDemo</AssemblyName>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    </PropertyGroup>
+</Project>
